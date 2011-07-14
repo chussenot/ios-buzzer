@@ -49,4 +49,10 @@
     [super dealloc];
 }
 
+- (IBAction)buzzPress:(id)sender {
+    NSLog(@"BUZZ");
+    
+    
+	
+}
 @end

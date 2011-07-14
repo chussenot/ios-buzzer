@@ -12,5 +12,7 @@
 @interface SecondViewController : UIViewController {
     
 }
+- (IBAction)buzzPress:(id)sender;
+
 
 @end
